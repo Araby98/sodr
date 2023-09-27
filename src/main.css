@@ -1,0 +1,9 @@
+.link {
+    display: 'flex';
+    justify-content : 'space-between';
+    cursor: 'pointer';
+}
+
+  .link:hover { /* Change the background color when hovering over the link */
+    cursor: pointer; /* Change the cursor style to a hand shape */
+  }
